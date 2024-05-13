@@ -41,16 +41,6 @@ namespace ChatApplication
                 listBox1.Items.Add(text);
         }
 
-        private void UpdateConnectedClientsListView()
-        {
-            listView1.Items.Clear();
-            foreach (var client in connectedClients)
-            {
-                ListViewItem item = new ListViewItem(client.Username);
-                item.SubItems.Add(((IPEndPoint)client.Socket.RemoteEndPoint).Address.ToString());
-                listView1.Items.Add(item);
-            }
-        }
 
 
 
@@ -68,14 +58,12 @@ namespace ChatApplication
                 }
                 catch (SocketException ex)
                 {
-                    // Handle connection errors
                 }
             }
 
-            // Add clients to list
+
             connectedClients.Add(new ClientInfo { Socket = clientSocket, Username = Form1.username });
 
-            // Start receiving messages asynchronously
             clientSocket.BeginReceive(buffer, 0, buffer.Length, SocketFlags.None, new AsyncCallback(ReceiveCallback), clientSocket);
         }
 
@@ -97,10 +85,11 @@ namespace ChatApplication
         private void button1_Click(object sender, EventArgs e)
         {
             // Send an empty buffer to signal the start of a new message
-            clientSocket.Send(Encoding.ASCII.GetBytes(Environment.NewLine));
 
             if (!string.IsNullOrWhiteSpace(textBox2.Text))
             {
+                clientSocket.Send(Encoding.ASCII.GetBytes(Environment.NewLine));
+
                 string messageToSend = "[" + Form1.username + "] " + textBox2.Text;
                 byte[] buffer = Encoding.ASCII.GetBytes(messageToSend);
                 byte[] emptyBuffer = new byte[0];
@@ -108,6 +97,10 @@ namespace ChatApplication
                 clientSocket.Send(buffer);
                 textBox2.Clear();
                 listBox1.Items.Add(messageToSend);
+            }
+            else
+            {
+                MessageBox.Show("Message cant be empty!");
             }
         }
 
@@ -129,18 +122,15 @@ namespace ChatApplication
                 clientSocket.Close();
         }
 
-        private void textBox3_TextChanged(object sender, EventArgs e)
+
+        private void listBox3_SelectedIndexChanged(object sender, EventArgs e)
         {
-            textBox3.Text = Form1.username;
+            
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void listBox4_SelectedIndexChanged(object sender, EventArgs e)
         {
 
-        }
-
-        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
-        {
         }
     }
 }
