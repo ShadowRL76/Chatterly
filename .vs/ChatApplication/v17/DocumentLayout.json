@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Shadow\\source\\repos\\ShadowRL76\\Chatterly\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA1B5645-FB92-4551-9553-DF9A7E517F43}|ChatApplication\\ChatApplication.csproj|c:\\users\\shadow\\source\\repos\\shadowrl76\\chatterly\\chatapplication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA1B5645-FB92-4551-9553-DF9A7E517F43}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA1B5645-FB92-4551-9553-DF9A7E517F43}|ChatApplication\\ChatApplication.csproj|c:\\users\\shadow\\source\\repos\\shadowrl76\\chatterly\\chatapplication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AA1B5645-FB92-4551-9553-DF9A7E517F43}|ChatApplication\\ChatApplication.csproj|C:\\Users\\Shadow\\source\\repos\\ShadowRL76\\Chatterly\\chatapplication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AA1B5645-FB92-4551-9553-DF9A7E517F43}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA1B5645-FB92-4551-9553-DF9A7E517F43}|ChatApplication\\ChatApplication.csproj|c:\\users\\shadow\\source\\repos\\shadowrl76\\chatterly\\chatapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA1B5645-FB92-4551-9553-DF9A7E517F43}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA1B5645-FB92-4551-9553-DF9A7E517F43}|ChatApplication\\ChatApplication.csproj|c:\\users\\shadow\\source\\repos\\shadowrl76\\chatterly\\chatapplication\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AA1B5645-FB92-4551-9553-DF9A7E517F43}|ChatApplication\\ChatApplication.csproj|C:\\Users\\Shadow\\source\\repos\\ShadowRL76\\Chatterly\\chatapplication\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AA1B5645-FB92-4551-9553-DF9A7E517F43}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA1B5645-FB92-4551-9553-DF9A7E517F43}|ChatApplication\\ChatApplication.csproj|c:\\users\\shadow\\source\\repos\\shadowrl76\\chatterly\\chatapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AA1B5645-FB92-4551-9553-DF9A7E517F43}|ChatApplication\\ChatApplication.csproj|C:\\Users\\Shadow\\source\\repos\\ShadowRL76\\Chatterly\\chatapplication\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1B5645-FB92-4551-9553-DF9A7E517F43}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1B5645-FB92-4551-9553-DF9A7E517F43}|ChatApplication\\ChatApplication.csproj|C:\\Users\\Shadow\\source\\repos\\ShadowRL76\\Chatterly\\chatapplication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1B5645-FB92-4551-9553-DF9A7E517F43}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1B5645-FB92-4551-9553-DF9A7E517F43}|ChatApplication\\ChatApplication.csproj|C:\\Users\\Shadow\\source\\repos\\ShadowRL76\\Chatterly\\chatapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AA1B5645-FB92-4551-9553-DF9A7E517F43}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,14 +43,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\ShadowRL76\\Chatterly\\ChatApplication\\Form1.cs",
-              "RelativeDocumentMoniker": "ChatApplication\\Form1.cs",
-              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\ShadowRL76\\Chatterly\\ChatApplication\\Form1.cs",
-              "RelativeToolTip": "ChatApplication\\Form1.cs",
-              "ViewState": "AQIAAGgAAAAAAAAAAAAIwHkAAAAAAAAA",
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\ShadowRL76\\Chatterly\\ChatApplication\\Form3.cs",
+              "RelativeDocumentMoniker": "ChatApplication\\Form3.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\ShadowRL76\\Chatterly\\ChatApplication\\Form3.cs",
+              "RelativeToolTip": "ChatApplication\\Form3.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T03:47:31.259Z",
+              "WhenOpened": "2024-05-14T03:51:46.066Z",
               "EditorCaption": ""
             },
             {
@@ -62,12 +62,11 @@
               "ToolTip": "C:\\Users\\Shadow\\source\\repos\\ShadowRL76\\Chatterly\\ChatApplication\\Form1.cs [Design]",
               "RelativeToolTip": "ChatApplication\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T03:33:23.095Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-14T03:50:59.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\ShadowRL76\\Chatterly\\ChatApplication\\Form3.cs",
               "RelativeDocumentMoniker": "ChatApplication\\Form3.cs",
@@ -79,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\ShadowRL76\\Chatterly\\ChatApplication\\Form2.cs",
               "RelativeDocumentMoniker": "ChatApplication\\Form2.cs",
@@ -91,13 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\ShadowRL76\\Chatterly\\ChatApplication\\Form2.cs",
               "RelativeDocumentMoniker": "ChatApplication\\Form2.cs",
               "ToolTip": "C:\\Users\\Shadow\\source\\repos\\ShadowRL76\\Chatterly\\ChatApplication\\Form2.cs",
               "RelativeToolTip": "ChatApplication\\Form2.cs",
-              "ViewState": "AQIAAG8AAAAAAAAAAAAcwIcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T02:46:31.917Z",
               "EditorCaption": ""
